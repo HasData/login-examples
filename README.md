@@ -2,6 +2,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-18+-green)
 
 # Login Automation Examples (Python & Node.js)
+[![HasData_bannner](banner.png)](https://hasdata.com/)
 
 This repository contains practical login automation examples using **Python** and **Node.js**. It demonstrates how to handle different authentication flows: from basic form submissions to CSRF-protected logins and browser automation with Selenium, Puppeteer, SeleniumBase and Playwright.
 
